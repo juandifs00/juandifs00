@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently learning Android Studio, Angular, React, JavaScript and Python
 - ⚡ Fun fact: Like videogames, movies, series, electronic music, technology and many more things
-
-[Linkedin](https://www.linkedin.com/in/juan-diego-rodríguez-guarín-a57a39b3/)
+    
+[Linkedin](https://www.linkedin.com/in/juan-diego-rodríguez-guarín/)
